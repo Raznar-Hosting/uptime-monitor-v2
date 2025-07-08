@@ -1,36 +1,68 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Raznar-Hosting
+repo: uptime-monitor-v2
+sites: 
+  # --- Bare Metals - Nusantara Jakarta ---
+  - name: NSTR-JKT1
+    url: https://ping-game-nstr-jkt1.raznar-server.uk
+    expectedStatusCodes:
+      - 200
+  - name: NSTR-JKT2
+    url: https://ping-game-nstr-jkt2.raznar-server.uk
+    expectedStatusCodes:
+      - 200
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # --- Our Websites ---
+  - name: Main Website
+    url: https://raznar.id
+    expectedStatusCodes:
+      - 200
+  - name: Billing Website
+    url: https://my.raznar.id
+    expectedStatusCodes:
+      - 200
+
+  # --- Applications - Jakarta ---
+  - name: APP-JKT1
+    url: https://app-jkt1.raznar-server.uk:8443
+    expectedStatusCodes:
+      - 401
+
+  # --- Game General - Jakarta ---
+  - name: GNL-JKT1
+    url: https://game-gnl-jkt1.raznar-server.uk:8443
+    expectedStatusCodes:
+      - 401
+  - name: GNL-JKT2
+    url: https://game-gnl-jkt2.raznar-server.uk:8443
+    expectedStatusCodes:
+      - 401
+  - name: GNL-JKT3
+    url: https://game-gnl-jkt3.raznar-server.uk:8443
+    expectedStatusCodes:
+      - 401
+  - name: GNL-JKT4
+    url: https://game-gnl-jkt4.raznar-server.uk:8443
+    expectedStatusCodes:
+      - 401
+  - name: GNL-JKT5
+    url: https://game-gnl-jkt5.raznar-server.uk:8443
+    expectedStatusCodes:
+      - 401
+  - name: GNL-JKT6
+    url: https://game-gnl-jkt6.raznar-server.uk:8443
+    expectedStatusCodes:
+      - 401
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.raznar.id
+  # baseUrl: /uptime-v2
+  logoUrl: https://raznar.id/favicon.ico
+  favicon: https://raznar.id/favicon.ico
+  name: Raznar Uptime Monitor
+  introTitle: "**Raznar Hosting Service Status**"
+  introMessage: "Live status for our websites, apps, and game servers in Jakarta."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Website
+      href: https://raznar.id
