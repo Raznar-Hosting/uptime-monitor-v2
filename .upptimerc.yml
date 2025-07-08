@@ -60,7 +60,7 @@ status-website:
   favicon: https://raznar.id/favicon.ico
   name: Raznar Uptime Monitor
   introTitle: "**Raznar Hosting Service Status**"
-  introMessage: "Live status for our websites, apps, and game servers in Jakarta."
+  introMessage: "Live status for our websites, apps, vps, bare metals, and game servers"
   navbar:
     - title: Status
       href: /
