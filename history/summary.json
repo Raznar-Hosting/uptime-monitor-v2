@@ -168,19 +168,19 @@
     "url": "https://game-gnl-jkt5.raznar-server.uk:8443",
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt5.raznar-server.uk.ico",
     "slug": "gnl-jkt-5",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3482,
-    "timeDay": 10259,
-    "timeWeek": 3482,
-    "timeMonth": 3482,
-    "timeYear": 3482,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 3157,
+    "timeDay": 7133,
+    "timeWeek": 3157,
+    "timeMonth": 3157,
+    "timeYear": 3157,
     "dailyMinutesDown": {
-      "2025-07-12": 0
+      "2025-07-12": 16
     }
   },
   {
