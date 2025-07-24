@@ -1,5 +1,9 @@
 owner: Raznar-Hosting
 repo: uptime-monitor-v2
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 sites: 
   # --- Bare Metals - Nusantara Jakarta ---
   - name: NSTR-JKT1
