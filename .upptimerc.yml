@@ -24,6 +24,7 @@ sites:
     url: https://my.raznar.id
     expectedStatusCodes:
       - 200
+      - 403
 
   # --- Applications - Jakarta ---
   - name: APP-JKT1
