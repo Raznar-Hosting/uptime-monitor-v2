@@ -1,7 +1,7 @@
 url: https://game-gnl-jkt4.raznar-server.uk:8443
-status: down
-code: 500
-responseTime: 204
-lastUpdated: 2025-11-18T13:36:02.371Z
+status: up
+code: 401
+responseTime: 922
+lastUpdated: 2025-11-18T14:39:19.240Z
 startTime: 2025-07-26T14:15:31.815Z
 generator: Upptime <https://github.com/upptime/upptime>
