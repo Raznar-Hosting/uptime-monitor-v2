@@ -1,7 +1,7 @@
 url: https://ping-game-nstr-jkt1.raznar-server.uk
-status: up
-code: 200
-responseTime: 754
-lastUpdated: 2025-11-18T14:38:56.645Z
+status: down
+code: 500
+responseTime: 4936
+lastUpdated: 2025-11-18T15:41:20.917Z
 startTime: 2025-07-26T14:15:22.776Z
 generator: Upptime <https://github.com/upptime/upptime>
