@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.raznar.id.ico",
     "slug": "billing-website",
     "status": "down",
-    "uptime": "67.20%",
+    "uptime": "67.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.85%",
+    "uptimeYear": "66.82%",
     "time": 305,
     "timeDay": 0,
     "timeWeek": 0,
@@ -110,7 +110,7 @@
     "dailyMinutesDown": {
       "2025-11-18": 120,
       "2025-12-19": 54,
-      "2026-07-30": 755,
+      "2026-07-30": 898,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -239,17 +239,17 @@
     "url": "https://app-jkt1.raznar-server.uk:8443",
     "icon": "https://icons.duckduckgo.com/ip3/app-jkt1.raznar-server.uk.ico",
     "slug": "app-jkt-1",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "73.35%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.54%",
-    "time": 1281,
-    "timeDay": 10185,
-    "timeWeek": 3075,
-    "timeMonth": 1342,
-    "timeYear": 1304,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "63.90%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.52%",
+    "time": 1280,
+    "timeDay": 6990,
+    "timeWeek": 2800,
+    "timeMonth": 1319,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-08-18": 35,
       "2025-10-06": 31,
@@ -268,7 +268,7 @@
       "2026-06-09": 219,
       "2026-06-10": 382,
       "2026-06-16": 88,
-      "2026-07-30": 384
+      "2026-07-30": 520
     }
   },
   {
@@ -277,11 +277,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt1.raznar-server.uk.ico",
     "slug": "gnl-jkt-1",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "73.43%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.36%",
+    "uptimeDay": "63.50%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "99.43%",
     "time": 1083,
     "timeDay": 10334,
     "timeWeek": 3122,
@@ -301,7 +301,7 @@
       "2026-06-21": 428,
       "2026-06-24": 204,
       "2026-07-19": 145,
-      "2026-07-30": 383
+      "2026-07-30": 526
     }
   },
   {
@@ -310,11 +310,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt2.raznar-server.uk.ico",
     "slug": "gnl-jkt-2",
     "status": "down",
-    "uptime": "97.76%",
-    "uptimeDay": "73.50%",
-    "uptimeWeek": "96.21%",
+    "uptime": "97.73%",
+    "uptimeDay": "63.56%",
+    "uptimeWeek": "94.79%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.82%",
+    "uptimeYear": "97.79%",
     "time": 1262,
     "timeDay": 1705,
     "timeWeek": 925,
@@ -340,7 +340,7 @@
       "2026-06-25": 1440,
       "2026-07-01": 714,
       "2026-07-05": 196,
-      "2026-07-30": 382
+      "2026-07-30": 525
     }
   },
   {
@@ -349,11 +349,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt3.raznar-server.uk.ico",
     "slug": "gnl-jkt-3",
     "status": "down",
-    "uptime": "79.78%",
-    "uptimeDay": "73.58%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "79.64%",
+    "uptime": "79.76%",
+    "uptimeDay": "63.64%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "79.61%",
     "time": 1454,
     "timeDay": 10288,
     "timeWeek": 3112,
@@ -458,7 +458,7 @@
       "2026-06-26": 675,
       "2026-06-25": 531,
       "2026-06-29": 111,
-      "2026-07-30": 380
+      "2026-07-30": 524
     }
   },
   {
@@ -467,11 +467,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt4.raznar-server.uk.ico",
     "slug": "gnl-jkt-4",
     "status": "down",
-    "uptime": "93.12%",
-    "uptimeDay": "73.64%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "93.28%",
+    "uptime": "93.10%",
+    "uptimeDay": "63.70%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "93.25%",
     "time": 1066,
     "timeDay": 10117,
     "timeWeek": 3043,
@@ -514,7 +514,7 @@
       "2026-05-18": 218,
       "2026-07-05": 196,
       "2026-07-12": 456,
-      "2026-07-30": 380
+      "2026-07-30": 523
     }
   },
   {
@@ -523,11 +523,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt5.raznar-server.uk.ico",
     "slug": "gnl-jkt-5",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "73.72%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.59%",
+    "uptimeDay": "63.78%",
+    "uptimeWeek": "94.83%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.66%",
     "time": 1105,
     "timeDay": 10323,
     "timeWeek": 3102,
@@ -550,7 +550,7 @@
       "2026-03-20": 52,
       "2026-04-21": 62,
       "2026-05-19": 162,
-      "2026-07-30": 378
+      "2026-07-30": 522
     }
   },
   {
@@ -559,11 +559,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt6.raznar-server.uk.ico",
     "slug": "gnl-jkt-6",
     "status": "down",
-    "uptime": "33.06%",
+    "uptime": "33.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "35.85%",
-    "uptimeYear": "32.42%",
+    "uptimeYear": "32.39%",
     "time": 2496,
     "timeDay": 19709,
     "timeWeek": 19696,
@@ -811,7 +811,7 @@
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 526,
-      "2026-07-30": 755,
+      "2026-07-30": 898,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
