@@ -4,13 +4,13 @@
     "url": "https://ping-game-nstr-jkt1.raznar-server.uk",
     "icon": "https://icons.duckduckgo.com/ip3/ping-game-nstr-jkt1.raznar-server.uk.ico",
     "slug": "nstr-jkt-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.49%",
-    "time": 1314,
+    "time": 1301,
     "timeDay": 1176,
     "timeWeek": 988,
     "timeMonth": 1680,
@@ -29,7 +29,8 @@
       "2026-07-30": 378,
       "2026-08-23": 91,
       "2026-09-12": 221,
-      "2026-10-05": 351
+      "2026-10-05": 351,
+      "2026-10-13": 1
     }
   },
   {
@@ -37,10 +38,10 @@
     "url": "https://ping-game-nstr-jkt2.raznar-server.uk",
     "icon": "https://icons.duckduckgo.com/ip3/ping-game-nstr-jkt2.raznar-server.uk.ico",
     "slug": "nstr-jkt-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.48%",
     "time": 1210,
@@ -59,7 +60,8 @@
       "2026-07-30": 378,
       "2026-08-23": 88,
       "2026-09-12": 220,
-      "2026-10-05": 350
+      "2026-10-05": 350,
+      "2026-10-13": 1
     }
   },
   {
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.raznar.id.ico",
     "slug": "billing-website",
     "status": "down",
-    "uptime": "55.88%",
+    "uptime": "55.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.37%",
+    "uptimeYear": "46.32%",
     "time": 305,
     "timeDay": 0,
     "timeWeek": 0,
@@ -110,7 +112,7 @@
     "dailyMinutesDown": {
       "2025-11-18": 120,
       "2025-12-19": 54,
-      "2026-10-13": 379,
+      "2026-10-13": 658,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
@@ -625,12 +627,12 @@
     "url": "https://game-gnl-jkt6.raznar-server.uk:8443",
     "icon": "https://icons.duckduckgo.com/ip3/game-gnl-jkt6.raznar-server.uk.ico",
     "slug": "gnl-jkt-6",
-    "status": "up",
-    "uptime": "33.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.79%",
-    "uptimeYear": "29.60%",
+    "status": "down",
+    "uptime": "33.92%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "95.42%",
+    "uptimeYear": "29.65%",
     "time": 3988,
     "timeDay": 818,
     "timeWeek": 894,
@@ -900,7 +902,8 @@
       "2026-07-17": 1368,
       "2026-09-16": 291,
       "2026-09-15": 105,
-      "2026-09-30": 403
+      "2026-09-30": 403,
+      "2026-10-13": 1
     }
   }
 ]
