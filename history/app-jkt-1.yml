@@ -1,7 +1,7 @@
 url: https://app-jkt1.raznar-server.uk:8443
-status: up
-code: 401
-responseTime: 606
-lastUpdated: 2026-11-13T03:03:24.149Z
+status: down
+code: 525
+responseTime: 566
+lastUpdated: 2026-11-14T01:39:38.906Z
 startTime: 2025-07-26T14:15:27.041Z
 generator: Upptime <https://github.com/upptime/upptime>
